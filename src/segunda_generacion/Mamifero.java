@@ -1,4 +1,6 @@
 package segunda_generacion;
 
-public class Mamifero {
+public interface Mamifero  {
+    void amamantar();
+
 }
